@@ -23,4 +23,9 @@ public class day2 {
 		System.out.println("My git");
 		System.out.println("My execution");
 	}
+	@Test
+	public void myGitx()
+	{
+		System.out.println("my merge");
+		}
 }
