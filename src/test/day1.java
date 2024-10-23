@@ -32,6 +32,12 @@ public class day1 {
 	{
 		System.out.println("bye");
 	}
+	@Test
+	public void MyTest()
+	{
+		System.out.println("My Test");
+		System.out.println("My Git Demo");
+	}
 
 
 

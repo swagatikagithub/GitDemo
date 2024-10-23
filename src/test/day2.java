@@ -17,4 +17,10 @@ public class day2 {
 	{
 		System.out.println("I will execute first");
 	}
+	@Test
+	public void myGit()
+	{
+		System.out.println("My git");
+		System.out.println("My execution");
+	}
 }
