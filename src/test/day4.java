@@ -36,4 +36,9 @@ public class day4 {
 	{
 		System.out.println("my gitstuff modification");
 		}
+	@Test
+	public void MergeTest()
+	{
+		System.out.println("Merge test");
+	}
 }
