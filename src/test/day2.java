@@ -28,4 +28,9 @@ public class day2 {
 	{
 		System.out.println("my merge");
 		}
+	@Test
+	public void myGitxDevelop()
+	{
+		System.out.println("my develop gitx");
+		}
 }

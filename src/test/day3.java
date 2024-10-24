@@ -95,15 +95,12 @@ public void befoclas()
 		//3rd set
 		data[2][0]="thirdsetusername";
 		data[2][1]="thirdpassword";
-		return data;
-		
-		
-		
-	
-		
-		
-		
-		
+		return data;	
+		}
+	@Test
+	public void mydevelop()
+	{
+		System.out.println("my day3 develop");
 	}
 	
 }
