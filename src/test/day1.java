@@ -38,6 +38,11 @@ public class day1 {
 		System.out.println("My Test");
 		System.out.println("My Git Demo");
 	}
+	public void MyTest1()
+	{
+		System.out.println("My Test1");
+		System.out.println("My Gitstuff");
+	}
 
 
 
